@@ -1,6 +1,9 @@
 # refactored-journey
 Enterprise Cloud Infrastructure Admin with Azure, Power Platform, and DevOps Automation
 
+## 📁 Repository Structure
+
+```
 azure-enterprise-admin-project/
 ├── docs/
 │   ├── architecture-diagram.png
@@ -31,3 +34,4 @@ azure-enterprise-admin-project/
 │   └── dashboard-demo.powerbi
 ├── README.md
 └── LICENSE
+```
