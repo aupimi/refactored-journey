@@ -6,10 +6,6 @@ Enterprise Cloud Infrastructure Admin with Azure, Power Platform, and DevOps Aut
 ```
 azure-enterprise-admin-project/
 ├── README.md/
-│   ├── architecture-diagram.png
-│   ├── project-overview.md
-│   ├── roles-and-permissions.md
-│   ├── troubleshooting-log.md
 ├── infrastructure/
 │   ├── bicep/
 │   │   ├── main.bicep
